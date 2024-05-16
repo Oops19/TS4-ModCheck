@@ -1,11 +1,12 @@
 # TS4 Mod Check
 
-This is a very simple mod to list all files in `The Sims 4⁽¹⁾/Mods` and to search for duplicate file names.
-The mod is idle until it's invoked by the user.
+This is a very simple mod to list all files in `The Sims 4⁽¹⁾/Mods` and to search for issues like duplicate file names, wrong file locations, ...
+The mod does nothing until it's invoked by the user.
 
-It helps to identify issues caused by installations placed in wrong folders.
+It's purpose is to help identifying issues caused by installations placed in wrong folders.
 
 In case you don't want to reveal the DLCs and/or mods you are using don't share the output with anyone or make sure to wipe it before sharing.
+
 
 `The Sims 4`⁽¹⁾ is a localized folder name which depends on the install language.
 
